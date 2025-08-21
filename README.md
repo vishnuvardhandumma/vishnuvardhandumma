@@ -27,8 +27,7 @@ I’m passionate about coding, problem-solving, and building impactful projects.
 
 ### ⚙️ Tools & Platforms  
 - Git & GitHub  
-- VS Code, Jupyter Notebook  
-- Google Cloud / Firebase (basic)  
+- VS Code
 
 ---
 
