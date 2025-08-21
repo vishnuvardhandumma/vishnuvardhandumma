@@ -41,9 +41,9 @@ Here are a few projects I’ve worked on:
 
 ## 📈 GitHub Stats  
 ![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnuvardhandumma&show_icons=true&theme=tokyonight)  
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhandumma&layout=compact&theme=tokyonight)  
-
+-->
 ---
 
 ## 📫 Connect with Me  
