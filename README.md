@@ -47,7 +47,7 @@ Here are a few projects I’ve worked on:
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/vishnu-vardhan-dumma-387ba9263/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-dumma-387ba9263)  
 - 📧 Email: **vishnuvardhan200510@gmail.com**  
 - 🌐 WhatsApp Channel: [The Placement Path](https://wa.me/)  
 
