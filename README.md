@@ -48,7 +48,7 @@ Here are a few projects I’ve worked on:
 
 
 ## 📫 Connect with Me  
-- 📱 Phone: **+91-99635 40025**  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-dumma-387ba9263)
 [![Email](https://img.shields.io/badge/Email-Reach%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhan200510@gmail.com)
